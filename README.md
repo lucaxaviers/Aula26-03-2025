@@ -1,6 +1,9 @@
 # Aula26-03-2025
 ----------------------
-Criar uma branch 
-Usar a branch criada
-Depois colocar oque foi feito na branch merge na branch main
-Excluir a brach merge
+1-Criar uma nova branch
+
+2-Usar a branch criada para realizar alterações
+
+3-Fazer o merge das alterações feitas na branch de trabalho para a branch main
+
+4-Excluir a branch de trabalho após o merge
